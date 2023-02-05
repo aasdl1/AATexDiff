@@ -22,7 +22,7 @@ zh：更方便的使用latexdiff，推荐和右键菜单一起食用
 - **打开tex的默认程序**，此处是利用`texStudio`打开的，`E:\\Software\\texstudio-4.3.1-win-portable-qt6\\texstudio.exe`
 ---
 
-en：More Convenient Way to use latexdiff. Recommend to use with Right Click meau.
+en：More Convenient Way to use latexdiff. Recommend to use with Right Click menu.
 
 **Function:Compared with original tex file and use the default way in ur computer to open the diffed tex file or open the pdf one with compiled the diffed tex file**
 
