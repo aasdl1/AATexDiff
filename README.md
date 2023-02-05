@@ -38,7 +38,7 @@ Process:choose the original tex files, then wait with **Happy, Lucky, Smile**~
 
 ## How to add right click context menu
 
-Please find an arbitrary technical blog to study, You must be **caution** if you don't familiar with Regedit operation, backup before anyoperation, btw.[This blog is fine](https://blog.csdn.net/yang382197207/article/details/80079052)
+Please find an arbitrary technical blog to study, You must be **caution** if you don't familiar with Regedit operation, backup before any operation, btw.[This blog is fine](https://blog.csdn.net/yang382197207/article/details/80079052)
 
 In my reg file in resposity, `TexFiles` bind with the `.tex`, you can import the reg directly if the same to you after **modify** the following item 
 - **Script path**，here is `C:\\Users\\aasdl1\\Desktop\\Code\\AAScripts\\AASTexDiff.ps1`
